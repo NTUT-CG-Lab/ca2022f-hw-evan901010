@@ -1,0 +1,6 @@
+{
+"Type": "Live2D Expression",
+"Parameters": [
+{ "Id": "ParamJito", "Value": 30, "Blend": "Add" }
+]
+}
