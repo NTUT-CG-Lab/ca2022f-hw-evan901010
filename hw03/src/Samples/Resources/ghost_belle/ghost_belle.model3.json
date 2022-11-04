@@ -1,0 +1,30 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "ghost_belle.moc3",
+		"Textures": [
+			"ghost_belle.4096/texture_00.png"
+		],
+		"DisplayInfo": "ghost_belle.cdi3.json",
+    "Motions":{
+      "Idle":[
+        {
+          "File": "Animation/movement4.motion3.json",
+          "Sound": "sounds/ghost_belle_01.wav"
+        }
+      ]
+    }
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
